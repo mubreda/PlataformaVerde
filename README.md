@@ -1,6 +1,6 @@
 ### Veja a demonstração [AQUI](https://plataforma-verde.vercel.app/)
 
-<img src="https://github.com/mubreda/PlataformaVerde/blob/main/public/images/plataformaverde.jpg">
+<img src="https://github.com/mubreda/PlataformaVerde/blob/main/src/imgs/plataformaverde.JPG">
 
 
 # 🚀 Como executar o projeto
